@@ -1,2 +1,2 @@
 # IRIS-CLASSIFICATION
-Classifying different types of Irises
+Classifying different types of Irises using ML techniques.
